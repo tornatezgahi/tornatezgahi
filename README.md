@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋 I'm Mete 
 
-<!--
-**tornatezgahi/tornatezgahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently stepping into the world of **Cyber Security** and **Electronics**, combining hardware and software to understand how systems work from the ground up.
+- 🌱 I’m currently learning the fundamentals of electronics, networking, and security concepts as a beginner.
+- 💬 Ask me about building circuits, Linux basics, and my security learning journey!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Interests & Tech Stack
+
+- **Electronics & Hardware:** Basic circuits, microcontrollers (like Raspberry Pi Pico), and physical computing.
+- **Cyber Security (Beginner):** Linux environments, networking fundamentals, and security basics.
+- **Tools & Environments:** Git, Python, and terminal basics.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=radical" alt="Top Langs" />
+</p>
