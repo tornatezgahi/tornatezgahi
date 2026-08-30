@@ -18,10 +18,5 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=tornatezgahi&show_icons=true&theme=radical&hide_rank=true" alt="GitHub Stats" />
-</p>
-
-### 🐍 GitHub Contribution Snake
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/tornatezgahi/tornatezgahi/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tornatezgahi&layout=compact&theme=radical" alt="Top Langs" />
 </p>
