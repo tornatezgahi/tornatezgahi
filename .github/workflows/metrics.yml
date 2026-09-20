@@ -5,6 +5,8 @@ on:
   # Elle çalıştırmak ve her commit'te çalıştırmak için
   push: {branches: ["master", "main"]}
   workflow_dispatch:
+permissions:
+  contents: write
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
