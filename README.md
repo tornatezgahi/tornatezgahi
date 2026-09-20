@@ -22,4 +22,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-*Note: GitHub Stats will be updated as I push more projects!*
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tornatezgahi&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tornatezgahi&layout=compact&theme=dark)
